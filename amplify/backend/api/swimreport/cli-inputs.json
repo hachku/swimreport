@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "swimreport",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/brianleung/amplifyapp/amplify/backend/api/swimreport/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
